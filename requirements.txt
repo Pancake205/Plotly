@@ -68,7 +68,6 @@ nbclient==0.10.0
 nbconvert==7.16.4
 nbformat==5.10.4
 nest-asyncio==1.6.0
-nest_asyncio_adv @ file:///C:/Users/beckymcfarland/AppData/Local/Programs/Python/Python312/nest_asyncio_adv-1.7.0b0-py3-none-any.whl#sha256=f5f75f16fb8c5f53fc0297cb95f5c30602f673c033e25f36a7a973e383abfb03
 notebook==7.2.2
 notebook_shim==0.2.4
 numpy==1.25.2
